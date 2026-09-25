@@ -6,12 +6,10 @@ Added version checker support.
 
 Fixed a bug where fleets where stuck at 0% CR and dying.
 
-Added support for dedicaited mining ships and added carriers to the list of acceptable ships for the mining fleet, Carriers and Mining ships get a 2x bonus to mining power. (Includes Drone Tenders)
+Added support for mods that add mining ships, added carriers and drone tenders to the list of acceptable ships, mining/carrier/drone tenders get a 2x mining power bonus.
+(Courier/Resupply fleets can also use modded ships.)
 
 Fixed a bug where if the fleet was destroyed and you uninstalled the bay you'd not get any ships back.
-
-Added support for modded ships, if it requires a tanker/freighter/transport and a mod adds that type of ship and has that designation it can be used.
-
 
 1.3 Change Logs
 
