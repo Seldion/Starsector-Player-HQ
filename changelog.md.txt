@@ -1,3 +1,17 @@
+1.5 Change Logs
+
+Forgot to add the fix for the fleets dying due to low CR, it's in this version now.
+
+Fixed fleets being spawned as mothballed.
+
+Fixed a bug where it would say it build the module but when you left the interaction screen it would go back to showing not being installed.
+
+Added the HQ to a single line under the fleet in the income screen.
+
+cleaned up text and made it more understandable.
+
+Added a line to the intel report for Mining Fleets and what they brought back that month.
+
 1.4 Change Logs
 
 Added version checker support.
