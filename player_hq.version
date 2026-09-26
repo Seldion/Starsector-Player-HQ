@@ -2,7 +2,7 @@
 	"masterVersionFile":"https://raw.githubusercontent.com/Seldion/Starsector-Player-HQ/main/player_hq.version",
 	"modName":"Player HQ",
 	"modThreadId":36035,
-	"changelogURL":"https://raw.githubusercontent.com/Seldion/Starsector-Player-HQ/refs/heads/main/player_hq.version",
+	"changelogURL":"https://github.com/Seldion/Starsector-Player-HQ/raw/refs/heads/main/CHANGELOG.md",
 	"directDownloadURL":"https://github.com/Seldion/Starsector-Player-HQ/releases/latest/download/Player-HQ.rar",
 	"modVersion":
 	{
