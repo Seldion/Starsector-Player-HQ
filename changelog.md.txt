@@ -12,9 +12,9 @@ cleaned up text and made it more understandable.
 
 Added a line to the intel report for Mining Fleets and what they brought back that month.
 
-1.4 Change Logs
+Added version checker support.(Actually this time)
 
-Added version checker support.
+1.4 Change Logs
 
 Fixed a bug where fleets where stuck at 0% CR and dying.
 
