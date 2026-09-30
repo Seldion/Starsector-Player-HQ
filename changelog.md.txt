@@ -1,3 +1,36 @@
+1.6.1 Change Log
+
+Removed 2 Courier fleets and added a Trade Fleet.
+Trade fleets consist of up to 10 freighters and 2 tankers, will load up excess resources and sell them to friendly markets but are less efficient then trading your self. (Limited to Frigates, Destroyers and Cruisers only.)
+
+Renamed the Call Resupply fleet ability to Call Fleet that will open a menu that will allow you to pick between a Resupply Fleet and A Courier Fleet
+The courier fleet will act like the resupply fleet but instead take items from you and ferry them to the HQ
+
+Strategic Assembly will now start with 500,000 production credit limit and the Nanoforge will give a bonus of 100,000 for a Corrupted and 250,000 for a pristine, Gamma cores give a bonus of 75,000, Beta of 150,000 and Alpha 250,000 along with their other bonuses.
+
+Added ships to the exchange and added the ability to store ships in the Agora for selling.
+
+Expedition Fleets now will require 2 tankers and will leave the system targeting the nearest highest tier ruin planet with in 10ly of the HQ.
+
+Added a button under the HQ report that allows you to place orders when not near the station.
+
+1.6 Change Log
+
+Forgot to track changes so I might of missed some
+
+Friendly stations in the system will now send out a SOS that will be added to a list, any active patrol fleets will book it to that station to help with defense before moving on to the next station that needs help, when the list is clear fleet will return to normal
+
+Add different options to dedicated AI system, now offering 3 tires, Gamma, Beta and Alpha each offering a better reduction and credit pool increase per month.
+Changed the bonuses for the corrupt and pristine forge in the strategic assembly and giving them a bonus to production pool income per month.
+
+Made it where mining fleets will now target planets with resources that the HQ needs the most.
+
+I know I fixed a few bugs but can't remember what they where. (Sorry)
+
+Thinking of redoing the fleets but need your opinions, Was thinking of removing a Patrol fleet and turning it into a Strike Fleet that you can order to attack something and a Grand Defender Fleet that will allow you to build only 1 patrol fleet but have up to 30 ships making it more of a boss fleet.
+Was thinking of removing 2 courier fleets as I personally don't often use more then two anyway but add a Trade Fleet that will trade excess wares from the station for you.
+Was thinking of making the Expedition Fleets to be allowed to go to different systems with a increased chance of finding loot but also require you to fund the expeditions with credits, supplies and fuel. (Let me know what you think)
+
 1.5 Change Logs
 
 Forgot to add the fix for the fleets dying due to low CR, it's in this version now.
