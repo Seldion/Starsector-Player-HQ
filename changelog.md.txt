@@ -1,3 +1,13 @@
+1.6.2 Change Log
+
+Added the ability to pause production in the Manufactorium.
+
+Cleaned up text to make everything as clean and understandable as possible.
+
+Removed the ability to use Capitals in the Resupply/Trade/Courier/Mining fleets. (Before updating make sure to remove any Capitals)
+
+Added 2 lines in the income screen under player hq that shows the upkeep for marines and crew in the HQ.
+
 1.6.1 Change Log
 
 Removed 2 Courier fleets and added a Trade Fleet.
