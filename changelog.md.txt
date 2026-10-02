@@ -1,3 +1,13 @@
+1.6.3 Change Log
+
+Fixed a bug where the custom order screen would close once opening when used from the intel screen.
+
+Fixed the Exchange offering things it shouldn't offer for both the weapons and the ship side.
+
+Fixed Expeditions returning with things they shouldn't like models of ships and stations.
+
+Reworked the mining fleets, they now launch when ready, they have a 4 day cooldown after each mining trip, they will now travel to a planet and mine, each day they add to the fleets total cargo hold and when full will return to the station, if the station's hold is full of the resources the system offers the fleets will hold off on launching until the hold goes lower then 8,000.
+
 1.6.2 Change Log
 
 Added the ability to pause production in the Manufactorium.
