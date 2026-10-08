@@ -1,3 +1,22 @@
+1.7.0 Change Logs
+
+Removed 2 Mining Fleets and added 2 Salvage Fleets to the MAH, They will launch and search for debris fields and derelict ships, they will ignore ships with guards.
+
+Added a Winter Resort to the Resort.
+VR Suites now give a bonus % based off the hazard rating of the planet over 100%.
+Beach Resort now gives a bonus for cold, very cold and planets with no atmosphere that are also cold.
+Winter Resort give bonuses to hot and very hot planets.
+
+Fixed where you can now produce fighters at the HQ.
+
+Reworked the Courier's mechanic. (Forgot to actually add it but made a better version.)
+Couriers will now return return to the HQ as soon as the screen is closed.
+There is now a Charter option on the main menu that allows you to set supply colonies and request colonies for the courier.
+
+If the player has the automated ship skill they can use automated ships in the patrol HQ.
+
+Added a Shopping List feature that allows your trade ship to buy equipment and ships from the market they are visiting.
+
 1.6.3 Change Log
 
 Fixed a bug where the custom order screen would close once opening when used from the intel screen.
