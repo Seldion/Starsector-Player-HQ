@@ -10,7 +10,7 @@ Winter Resort give bonuses to hot and very hot planets.
 Fixed where you can now produce fighters at the HQ.
 
 Reworked the Courier's mechanic. (Forgot to actually add it but made a better version.)
-Couriers will now return return to the HQ as soon as the screen is closed.
+Couriers will now return to the HQ as soon as the screen is closed.
 There is now a Charter option on the main menu that allows you to set supply colonies and request colonies for the courier.
 
 If the player has the automated ship skill they can use automated ships in the patrol HQ.
