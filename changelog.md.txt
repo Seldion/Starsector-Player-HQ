@@ -1,4 +1,6 @@
-1.7.0 Change Logs
+1.7.0/1 Change Logs
+
+Fixed a few small issues. (1.7.1)
 
 Removed 2 Mining Fleets and added 2 Salvage Fleets to the MAH, They will launch and search for debris fields and derelict ships, they will ignore ships with guards.
 
