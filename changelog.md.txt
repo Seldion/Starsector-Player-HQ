@@ -1,6 +1,12 @@
-1.7.0/1 Change Logs
+Known Bugs
 
-Fixed a few small issues. (1.7.1)
+Fleets produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but if you are using ships produced before this they will be stripped when they are used to make a fleet and will duplicate it's equipment each time it spawns, isn't a problem in the newer versions only old saves.
+
+Fleets spawn with 0% CR when used from the storage, they will die on their first spawn to accidents but the next time they spawn they will not have this problem.
+
+1.7.0/1 Change Logs
+(1.7.1)
+Added all the changes that where suppose to be in the previous patches, messed up and was working on two different versions of the game.
 
 Removed 2 Mining Fleets and added 2 Salvage Fleets to the MAH, They will launch and search for debris fields and derelict ships, they will ignore ships with guards.
 
