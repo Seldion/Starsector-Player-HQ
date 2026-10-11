@@ -17,6 +17,8 @@ Courier fleet can now have up to 5 freighters.
 
 Cleaned up the main menu and added a line for what is being produced atm.
 
+Bio-Dome no longer requires a Fusion Lamp to build but production is limited, added a new upgrade that adds the Fusion lamp to improve production, Fusion Lamp and Soil Nanites upgrades will return it to the old output.
+
 1.7.0/1 Change Logs
 (1.7.1)
 Added all the changes that where suppose to be in the previous patches, messed up and was working on two different versions of the game.
