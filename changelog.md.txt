@@ -1,8 +1,21 @@
 Known Bugs
 
-Fleets produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but if you are using ships produced before this they will be stripped when they are used to make a fleet and will duplicate it's equipment each time it spawns, isn't a problem in the newer versions only old saves.
+Ships produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but if you are using ships produced before this they will be stripped when they are used to make a fleet and will duplicate it's equipment each time it spawns, isn't a problem in the newer versions only old saves.
 
-Fleets spawn with 0% CR when used from the storage, they will die on their first spawn to accidents but the next time they spawn they will not have this problem.
+Fleets spawn with 0% CR when used from storage, they will die on their first spawn to accidents but the next time they spawn they will not have this problem.
+
+1.7.2 Change Log
+
+Mining and Salvage fleets where moved to the Fleet HQ but still require the Material Acquisition Hub to be build.
+
+Reworked the cost of the Player HQ and all the modals.
+
+The Manufactorium now produces all the items with out special items at 2x the cost, only exception to this is Heavy Armaments, Domestic/Luxury Goods which are 3x standard, 2x with corrupted and 1x with pristine and only produce a max of 50 per month.
+
+Fixed a bug where the resupply and courier fleet would not head to you once in system making it where you had to find it, now it will travel to you in system as well.
+Courier fleet can now have up to 5 freighters.
+
+Cleaned up the main menu and added a line for what is being produced atm.
 
 1.7.0/1 Change Logs
 (1.7.1)
