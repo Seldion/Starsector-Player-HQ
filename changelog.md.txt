@@ -5,7 +5,7 @@ Ships produced by the HQ in previous versions would produce variants with equipm
 
 Added an dynamic list of ships that each fleet can use in their menus save for Patrol, you can use what ever you want there.
 
-Added any ship that has build in mining equipment or drones to the list for mining fleets.
+Added any ship that has built in mining equipment or drones to the list for mining fleets.
 
 Made it where you only need a Gamma core and the resources to build the station but can still pick between high and low tech, You'll still get your Beta core back if you deconstruct the PHQ but when rebuilding it you will only need a Gamma.
 
