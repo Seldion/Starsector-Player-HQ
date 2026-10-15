@@ -1,6 +1,8 @@
 Known Bugs
 Ships produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but ships that where produced by the HQ before 1.7 will be buggy when used in fleets for the HQ, I recommend selling them or using them your self but not in crewing the fleets.
 
+When giving crew to the courier it deletes all crew in your hold, at lest it does in my game and I am trying to figure out if it is a bug with the mod or with other mods.
+
 1.3.4 Change Logs
 
 Added an dynamic list of ships that each fleet can use in their menus save for Patrol, you can use what ever you want there.
