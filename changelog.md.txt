@@ -1,7 +1,7 @@
 Known Bugs
 Ships produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but ships that where produced by the HQ before 1.7 will be buggy when used in fleets for the HQ, I recommend selling them or using them your self but not in crewing the fleets.
 
-1.7.5 Change Log
+1.7.5 Change Log (I uploaded the wrong file, the correct file is now in place so you might have to redownload if downloaded before 9:00 AM UTC 16-10-2026)
 Fixed the bug where the courier was taking all your crew when transferring just some of them.
 Courier fleets now need a transport as well to handle crew.
 If the HQ is already at its max crew or marines when transferring them to the courier, they will be sold at base price instead.
