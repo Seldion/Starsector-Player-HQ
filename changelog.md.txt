@@ -8,7 +8,7 @@ If the HQ is already at its max crew or marines when transferring them to the co
 Added the ability to send ships with the courier fleet back to HQ
 Reworked the courier charter to be more useful, instead of having supply and request planets, it will now allow you to pick a charter route where the first one in line that needs something will send a courier fleet, this allows both courier fleets to be more consistent with actually moving stuff around.
 
-Added to the Call Fleet ability, you can now pick to call a Patrol Fleet to join you, they will dock with the station and if all their ships are ready they will start a 7 day prep period, both fleets can be called but both fleets will need to be at the station and have all their ships before the 7 day prep time starts, once the 7 days is up they will lauch and orbit the station for a day before heading to your location, the 30 days doesn't start till they meet up with you. 
+Added to the Call Fleet ability, you can now pick to call a Patrol Fleet to join you, they will dock with the station and if all their ships are ready they will start a 7 day prep period, both fleets can be called but both fleets will need to be at the station and have all their ships before the 7 day prep time starts, once the 7 days is up they will lauch and orbit the station for a day before heading to your location, the 30 days doesn't start till they meet up with you, Patrol Fleets will need 2 Tankers and 2 Freighters to be eligible to be called, they can still be crewed with out them but won't be able to be called.
 
 1.3.4 Change Logs
 
