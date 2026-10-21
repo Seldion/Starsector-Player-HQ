@@ -10,7 +10,7 @@ Reworked the courier charter to be more useful, instead of having supply and req
 
 Added to the Call Fleet ability, you can now pick to call a Patrol Fleet to join you, they will dock with the station and if all their ships are ready they will start a 7 day prep period, both fleets can be called but both fleets will need to be at the station and have all their ships before the 7 day prep time starts, once the 7 days is up they will lauch and orbit the station for a day before heading to your location, the 30 days doesn't start till they meet up with you, Patrol Fleets will need 2 Tankers and 2 Freighters to be eligible to be called, they can still be crewed with out them but won't be able to be called.
 
-1.3.4 Change Logs
+1.7.4 Change Logs
 
 Added an dynamic list of ships that each fleet can use in their menus save for Patrol, you can use what ever you want there.
 
