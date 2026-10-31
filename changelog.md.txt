@@ -3,7 +3,7 @@ Ships produced by the HQ in previous versions would produce variants with equipm
 
 1.7.7 Change Logs.
 Huge change, the Build HQ button now gives you the option to pick between Easy and Starfarer Mode then Text or Visual.
-Easy mode uses just credits after the initial build, Starfarer mode uses credits and resources for everything, Text mode is a bare minimal text style where everything after being build can be accessed from the splash menu, Visual is colony like style.
+Easy mode uses just credits after the initial build, Starfarer mode uses credits and resources for everything, Text mode is a bare minimal text style where everything after being build can be accessed from the splash menu, Visual is colony like style,also note that once you pick a mode/style you are stuck with it for that save.
 I haven't been able to test the visual portion of the mod as extensively as the text so any bugs will need to be reported.
 
 Replaced the station sprite with a free sprite from Helmut, all credit goes to him for the station sprite, I am working on one my self but it is going to take a while as I am not that good with making them yet.
