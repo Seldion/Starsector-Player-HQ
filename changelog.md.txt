@@ -1,7 +1,18 @@
 Known Bugs
 Ships produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but ships that where produced by the HQ before 1.7 will be buggy when used in fleets for the HQ, I recommend selling them or using them your self but not in crewing the fleets.
 
-Plans - Working on a Visual Style where it will look just like a colony, Currently only the Wall of Text style is available.
+1.7.7 Change Logs.
+Huge change, the Build HQ button now gives you the option to pick between Easy and Starfarer Mode then Text or Visual.
+Easy mode uses just credits after the initial build, Starfarer mode uses credits and resources for everything, Text mode is a bare minimal text style where everything after being build can be accessed from the splash menu, Visual is colony like style.
+I haven't been able to test the visual portion of the mod as extensively as the text so any bugs will need to be reported.
+
+Replaced the station sprite with a free sprite from Helmut, all credit goes to him for the station sprite, I am working on one my self but it is going to take a while as I am not that good with making them yet.
+
+Added a Academy to all versions, this will improve the officers of your patrol fleet instead of getting OP officers.
+
+Courier and resupply fleets have been unified to transport fleets, all versions now get to buy their transport, mining, salvage, trade and expedition fleets for just credits, tho this reduces their effectiveness as they are set hulls now, patrol fleets can be bought with credits in easy mode, starfarer mode keeps the ship picker letting you pick the ships in the patrol fleet, remember to fit them as they don't get any equipment but what you give them.
+
+Courier charters and shopping list has been added to all version.
 
 1.7.6
 Biggest Change is I adding a "Easy Mode", when building the station it will now ask you what mode you want use, Current there is Easy and Starfarer, I am working on a Visual mode that uses a colony style interface instead, Easy Mode only uses resources to build the station it self, everything else is just credits but can't use Shopping 
