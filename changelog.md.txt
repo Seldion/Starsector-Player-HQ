@@ -1,11 +1,10 @@
 Known Bugs
 Ships produced by the HQ in previous versions would produce variants with equipment, this was fixed in the 1.7 version but ships that where produced by the HQ before 1.7 will be buggy when used in fleets for the HQ, I recommend selling them or using them your self but not in crewing the fleets.
 
-Known Issues: Industrial Evolution, Emergent Threats and AotD buildings will show up in the Player HQ in visual mode, there is nothing I can do about this unless they add the tags to their buildings, simply use the Text version or don't build them if they show up, again there is nothing I can do about it, I have reached out to them about it, once they add the tags they will no longer show up in the Player HQ.
-
 1.7.8 Change Logs.
 
 Fixed the issue with the Player HQ structures coming up in the colony build menu.
+Fixed structures other then the Player HQ structures showing up in the Player HQ.
 
 1.7.7 Change Logs.
 Huge change, the Build HQ button now gives you the option to pick between Easy and Starfarer Mode then Text or Visual.
